@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn-CategoryDetail</name>
+   <tag></tag>
+   <elementGuidId>cc17746a-213f-45a7-98d8-3c531c94f410</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;gh-cat&quot;]/option[text()='${paramCategoryDetail}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;gh-cat&quot;]/option[text()='${paramCategoryDetail}']</value>
+   </webElementProperties>
+</WebElementEntity>

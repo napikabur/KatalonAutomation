@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt-SelectFile</name>
+   <tag></tag>
+   <elementGuidId>402c9692-e3ee-4a79-9220-908685679afd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;gist-pjax-container&quot;]/div/div/div[2]//div[1]//strong[text()='${varFileName}']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;gist-pjax-container&quot;]/div/div/div[2]//div[1]//strong[text()='${varFileName}']</value>
+   </webElementProperties>
+</WebElementEntity>

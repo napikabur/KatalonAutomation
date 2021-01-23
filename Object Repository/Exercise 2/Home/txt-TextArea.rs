@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt-TextArea</name>
+   <tag></tag>
+   <elementGuidId>0e19e12f-8439-434b-823a-d5774f2bd733</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;gists&quot;]/div[2]/div/div[2]/div/div[5]/div[1]/div/div/div/div[5]/div/pre</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;gists&quot;]/div[2]/div/div[2]/div/div[5]/div[1]/div/div/div/div[5]/div/pre</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Scenario 3 - Delete Existing Gist</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a72c9049-a3ba-4ab9-bfc1-915f39032015</testCaseGuid>
+</TestCaseEntity>

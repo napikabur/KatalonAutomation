@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn-GistType</name>
+   <tag></tag>
+   <elementGuidId>125cfc5c-3afe-4f78-9b45-459cbe7ad060</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;new_gist&quot;]/div/div[2]/div/details/summary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;new_gist&quot;]/div/div[2]/div/details/summary</value>
+   </webElementProperties>
+</WebElementEntity>

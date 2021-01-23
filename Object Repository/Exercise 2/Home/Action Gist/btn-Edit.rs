@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn-Edit</name>
+   <tag></tag>
+   <elementGuidId>f0bc65d1-7132-405f-a967-4409147b3271</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;gist-pjax-container&quot;]/div[1]/div/div[1]/ul/li[1]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;gist-pjax-container&quot;]/div[1]/div/div[1]/ul/li[1]/a</value>
+   </webElementProperties>
+</WebElementEntity>
